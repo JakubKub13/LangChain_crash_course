@@ -1,0 +1,8 @@
+bin
+lib
+__pycache__
+etc
+apiKey.py 
+readme.md
+pyvenv.cfg
+share
